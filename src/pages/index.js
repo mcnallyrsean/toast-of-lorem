@@ -1,8 +1,7 @@
 import React, { Component } from "react"
 import styled from "styled-components"
 import _ from "lodash"
-import Layout from "../components/layout"
-import quotes from "../../public/data/quotes"
+import quotes from "../data/quotes"
 
 const LayoutCnt = styled.div`
   display: flex;
